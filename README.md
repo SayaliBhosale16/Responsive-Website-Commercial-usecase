@@ -21,7 +21,7 @@ A modern, fully responsive website built for Commercial of a VR sets company usi
 <img src="././about.png" width="700"/>
 
 ### Mobile View
-<img src="././mobile.png" width="400"/>
+<img src="././mobile.png" width="300"/>
 
 
 ## Technologies Used
